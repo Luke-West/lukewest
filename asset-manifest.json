@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lukewest/static/css/main.3cd58b92.chunk.css",
-    "main.js": "/lukewest/static/js/main.6d77df85.chunk.js",
-    "main.js.map": "/lukewest/static/js/main.6d77df85.chunk.js.map",
+    "main.js": "/lukewest/static/js/main.b3c7c930.chunk.js",
+    "main.js.map": "/lukewest/static/js/main.b3c7c930.chunk.js.map",
     "runtime-main.js": "/lukewest/static/js/runtime-main.754d90c0.js",
     "runtime-main.js.map": "/lukewest/static/js/runtime-main.754d90c0.js.map",
     "static/js/2.6bf4c97a.chunk.js": "/lukewest/static/js/2.6bf4c97a.chunk.js",
@@ -13,12 +13,12 @@
     "static/css/main.3cd58b92.chunk.css.map": "/lukewest/static/css/main.3cd58b92.chunk.css.map",
     "static/js/2.6bf4c97a.chunk.js.LICENSE.txt": "/lukewest/static/js/2.6bf4c97a.chunk.js.LICENSE.txt",
     "static/media/beer-logo.356bb853.png": "/lukewest/static/media/beer-logo.356bb853.png",
-    "static/media/walking-logo.938b9fc7.png": "/lukewest/static/media/walking-logo.938b9fc7.png"
+    "static/media/walking-logo.0d5e46a0.png": "/lukewest/static/media/walking-logo.0d5e46a0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.754d90c0.js",
     "static/js/2.6bf4c97a.chunk.js",
     "static/css/main.3cd58b92.chunk.css",
-    "static/js/main.6d77df85.chunk.js"
+    "static/js/main.b3c7c930.chunk.js"
   ]
 }
